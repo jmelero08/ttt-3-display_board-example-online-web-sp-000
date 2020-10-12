@@ -8,4 +8,4 @@ def display_board
   puts "   |   |   "
 end
 
-tic_tac_toe_board
+
