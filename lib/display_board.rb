@@ -6,3 +6,5 @@ def tic_tac_toe_board
   puts "-----------"
   puts "   |   |   "
 end
+
+tic_tac_toe_board
